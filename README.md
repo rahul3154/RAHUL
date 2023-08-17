@@ -4,7 +4,7 @@ PROFILE
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Rahul and I'm a engineering student, from  Bannari Amman Institute Of Technology</p>
 
 ###
 
